@@ -1,4 +1,4 @@
-# Welcome to Expanding Cards
+# Welcome to 3d Boxes
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT
